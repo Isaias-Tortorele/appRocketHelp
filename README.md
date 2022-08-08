@@ -1,9 +1,15 @@
-<h1 align="center">
-  <img alt="" height="80" title="" src="" />
-</h1>
-
 ## Projeto AppRocketHelp
 A aplicação para gerenciar em tempo real solicitações de manutenção e suporte a equipamentos.
+<div align="left">
+  <img alt="" height="350" title="" src="assets/Login.png" />
+  <img alt="" height="350" title="" src="assets/LoginComSenha.png" />
+  <img alt="" height="350"" title="" src="assets/HomeEmAndamento.png" />
+  <img alt="" height="350" title="" src="assets/HomeFinalizados.png" />
+  <img alt="" height="350" title="" src="assets/DescriçãoEmAndamento.png" />
+  <img alt="" height="350"" title="" src="assets/FinalizadosLoading.png" />
+  <img alt="" height="350" title="" src="assets/DescriçãoFinalizadas.png" />
+  <img alt="" height="350" title="" src="assets/Solicitação.png" />
+</div>
 
 ## Tecnologias
 - [x] React Native
